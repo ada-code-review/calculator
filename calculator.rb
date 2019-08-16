@@ -1,5 +1,5 @@
 # this is the gold calculator with the float identifier element of platinum.
-# get the operation
+# this is a fake edit
 
 puts "Welcome to your calculator! What kind of operation would you like to do?"
 operation = gets.chomp.downcase
